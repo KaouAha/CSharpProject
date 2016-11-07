@@ -1,0 +1,51 @@
+----------------------
+WCF (wcf)
+----------------------
+
+
+
+----------------------
+BLL (class librairy)
+----------------------
+HeplMovieLibBLL
+
+
+----------------------
+DAL (class librairy)
+IHeplLibDAL
+AHeplLibDAL
+HeplMovieLibDAL
+HeplVideoLibDAL
+	- version générale pour toute la library
+	- version propre pr chq vidéothèque
+
+
+----------------------
+DTO (class librairy)
+----------------------
+IHeplDTO
+AHeplDTO
+HeplMovieDTO
+	- interface
+	  classe abstraite
+	  classe moviedto
+
+	- class Actor
+	- class Movie 
+
+
+---------------------
+Autres
+---------------------
+- Git avec c#
+- Multithread avec c#
+- Penser à toutes les tables qu'il faut  
+
+
+
+Conventions de nommage
+-----------------------
+var mb : _m
+méthodes : 
+en ang
+minMajExplicite

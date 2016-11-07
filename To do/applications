@@ -1,0 +1,59 @@
+----------------------
+Application globale
+----------------------
+ - doit être multithread
+ - chaque couche doit être indép du choix  fait dans les autres couches 
+ - pour chq vidéothèque utiliser template design pattern et singleton pr admin
+
+
+-------------------------------------
+1) Administration de HeplFilmothèque
+-------------------------------------
+	- bonus
+	- 	WPF 
+		-> DAL (BDD_film_universelle)
+	- FCT : Activer/désactiver les films dispo pour la vidéothèques 
+			= gestion des copies
+
+
+-------------------------------------
+2) Administration d'une vidéothèque
+-------------------------------------
+	- Liaisons entre couches 
+		WPF(applic) 
+		-> WCF(service) 
+		-> BLL (couche) 
+		-> DAL (couche)
+
+	- Affichage
+		* liste de films dispo dans vidéothèque
+		* visualiser historique des commandes 
+		* créer des nouvelles cmd
+		* visualiser l'état de location du film
+
+
+-------------------------------------
+3) Site web pr cl d'1 vidéothèque
+-------------------------------------
+	- Liaison entre couches
+		Web (ASP .NET)
+		-> BLL 
+		-> DAL (BBD_vidéothèque)
+
+	- Affichage (idem avt)
+		* liste de films dispo dans vidéothèque
+		* visualiser historique des commandes 
+		* créer des nouvelles cmd
+		* visualiser l'état de location du film
+
+
+-------------------------------------
+4) Service de synchronisation
+-------------------------------------
+	- Synchro BDD_vidéothèque
+
+	- Fct
+		* Dernière synchro réalisée
+		* MAJ manuelle 
+			sous forme de paquets avec une taille fixe --> créaton d'1 protocole
+		* logguer toutes les actions 
