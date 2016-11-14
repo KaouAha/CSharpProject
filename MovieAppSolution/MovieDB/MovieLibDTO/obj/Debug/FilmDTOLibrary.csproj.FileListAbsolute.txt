@@ -1,0 +1,9 @@
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FilmDTOLibrary\bin\Debug\FilmDTOLibrary.dll
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FilmDTOLibrary\bin\Debug\FilmDTOLibrary.pdb
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FilmDTOLibrary\obj\Debug\FilmDTOLibrary.dll
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FilmDTOLibrary\obj\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\bin\Debug\FilmDTOLibrary.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\bin\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\obj\Debug\FilmDTOLibrary.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\obj\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\obj\Debug\FilmDTOLibrary.csprojResolveAssemblyReference.cache

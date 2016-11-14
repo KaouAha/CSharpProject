@@ -1,0 +1,8 @@
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\bin\Debug\FilmDTOLibrary.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\bin\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\obj\Debug\FilmDTOLibrary.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FilmDTOLibrary\obj\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieLibDTO\bin\Debug\MovieLibDTO.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieLibDTO\bin\Debug\MovieLibDTO.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieLibDTO\obj\Debug\MovieLibDTO.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieLibDTO\obj\Debug\MovieLibDTO.pdb
