@@ -1,0 +1,5 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\MovieServiceWCF.exe.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\MovieServiceWCF.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\MovieServiceWCF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\obj\Debug\MovieServiceWCF.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\obj\Debug\MovieServiceWCF.pdb

@@ -1,0 +1,22 @@
+DB 
+==
+si l'id d'un film est dans une commande il est loué sinon il est libre. Cela définie
+le caractère "état de location du film"
+
+Il nous faut une table User(id,name,sexe,addresse) pour les utilisateurs voulant 
+faire des commande sur le site. Il faut aussi une table Order(id,userid,dateFin)
+et une table OrderMovie(id,idMovie,idCommand) qui lie une commande a plusieurs films
+attention le couple movie commande 
+
+Service de synchronisation entre DB
+====================================
+1. Service de sync
+	Utilisation du framework Microsoft sync on juste besoin de 
+	la string connection à la fonction syn du service. 
+	
+2. Sync fetcher
+	c'est un programme qui sera lancer depuis les vidotheques
+	il va demander à au service de synchroniser sa bd et celle de l'universelle
+
+
+

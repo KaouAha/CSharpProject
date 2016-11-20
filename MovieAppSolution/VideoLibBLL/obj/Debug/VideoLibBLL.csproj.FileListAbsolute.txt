@@ -1,0 +1,5 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibBLL\bin\Debug\VideoLibBLL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibBLL\bin\Debug\VideoLibBLL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibBLL\obj\Debug\VideoLibBLL.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibBLL\obj\Debug\VideoLibBLL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibBLL\obj\Debug\VideoLibBLL.pdb

@@ -1,0 +1,12 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\Microsoft.Synchronization.Data.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\Microsoft.Synchronization.Data.Server.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\Microsoft.Synchronization.Data.SqlServer.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\Microsoft.Synchronization.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\SyncDataBasesWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Release\SyncDataBasesWCF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\obj\Release\VideoSyncFetcher.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

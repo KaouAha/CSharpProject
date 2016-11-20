@@ -1,0 +1,6 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.pdb

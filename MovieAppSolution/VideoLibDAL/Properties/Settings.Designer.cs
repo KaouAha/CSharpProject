@@ -33,5 +33,27 @@ namespace VideoLibDAL.Properties {
                 return ((string)(this["FilmDBConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=MoviesDB;Integrated Security=T" +
+            "rue;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True")]
+        public string MoviesDBConnectionString {
+            get {
+                return ((string)(this["MoviesDBConnectionString"]));
+            }
+        }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=VideothequeDB;Integrated Secur" +
+            "ity=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True")]
+        public string VideothequeDBConnectionString {
+            get {
+                return ((string)(this["VideothequeDBConnectionString"]));
+            }
+        }
     }
 }

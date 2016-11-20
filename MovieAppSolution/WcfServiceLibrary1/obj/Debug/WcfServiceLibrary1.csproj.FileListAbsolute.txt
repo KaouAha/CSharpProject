@@ -1,0 +1,5 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

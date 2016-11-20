@@ -1,0 +1,9 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\x64\Release\SyncDataBasesWCF.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\x64\Release\SyncDataBasesWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\x64\Release\SyncDataBasesWCF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\x64\Release\Microsoft.Synchronization.Data.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\x64\Release\Microsoft.Synchronization.Data.Server.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\x64\Release\Microsoft.Synchronization.Data.SqlServer.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\x64\Release\Microsoft.Synchronization.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\obj\x64\Release\SyncDataBasesWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\obj\x64\Release\SyncDataBasesWCF.pdb

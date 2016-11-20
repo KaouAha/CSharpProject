@@ -1,0 +1,10 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\Debug\SyncDataBasesWCF.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\Debug\SyncDataBasesWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\Debug\SyncDataBasesWCF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\Debug\Microsoft.Synchronization.Data.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\Debug\Microsoft.Synchronization.Data.Server.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\Debug\Microsoft.Synchronization.Data.SqlServer.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\bin\Debug\Microsoft.Synchronization.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\obj\Debug\SyncDataBasesWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\obj\Debug\SyncDataBasesWCF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\SyncDataBasesWCF\obj\Debug\SyncDataBasesWCF.csprojResolveAssemblyReference.cache

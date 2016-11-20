@@ -15,3 +15,11 @@ C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\
 C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.csprojResolveAssemblyReference.cache
 C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.dll
 C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieLibDTO.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieLibDTO.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.pdb
