@@ -1,0 +1,25 @@
+CREATE TABLE [dbo].[Order] (
+    [Id]      INT  NOT NULL,
+    [userId]  INT  NULL,
+    [endDate] DATE NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_Order_User] FOREIGN KEY ([userId]) REFERENCES [dbo].[User] ([Id])
+);
+
+CREATE TABLE [dbo].[OrderMovie] (
+    [Id]      INT NOT NULL,
+    [idMovie] INT NULL,
+    [idOrder] INT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC),
+    CONSTRAINT [FK_OrderMovie_Movie] FOREIGN KEY ([idMovie]) REFERENCES [dbo].[Movie] ([id]),
+    CONSTRAINT [FK_OrderMovie_Order] FOREIGN KEY ([idOrder]) REFERENCES [dbo].[Order] ([Id])
+);
+
+CREATE TABLE [dbo].[User] (
+    [Id]      INT           NOT NULL,
+    [name]    VARCHAR (500) NULL,
+    [address] VARCHAR (800) NULL,
+    [sex]     CHAR (1)      NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+

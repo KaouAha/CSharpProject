@@ -5,7 +5,7 @@ le caractère "état de location du film"
 
 Il nous faut une table User(id,name,sexe,addresse) pour les utilisateurs voulant 
 faire des commande sur le site. Il faut aussi une table Order(id,userid,dateFin)
-et une table OrderMovie(id,idMovie,idCommand) qui lie une commande a plusieurs films
+et une table OrderMovie(id,idMovie,idOrder) qui lie une commande a plusieurs films
 attention le couple movie commande 
 
 Service de synchronisation entre DB
