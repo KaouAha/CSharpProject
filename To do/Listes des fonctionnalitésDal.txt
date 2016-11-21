@@ -1,0 +1,12 @@
+Liste des requêtes sur la base de données
+
+	*select all film
+	*select film by name
+	*select user.name, order.id, oder.date, movie.name from ...
+        *insert order and ordermovie
+	*select movie.name -> movie.id -> ordermovie.idOrde -> order.date 
+		if(sysdate < order.date) libre
+		if(systedate > order.date) loué
+	* select user commandes
+
+		
