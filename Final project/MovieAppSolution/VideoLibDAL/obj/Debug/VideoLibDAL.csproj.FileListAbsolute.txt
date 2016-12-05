@@ -1,0 +1,16 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.dll.config
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDAL.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\bin\Debug\MovieLibDTO.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDTO.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\bin\Debug\MovieLibDTO.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\bin\Debug\VideoLibDTO.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoLibDAL\obj\Debug\VideoLibDAL.pdb

@@ -1,0 +1,5 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieLibDTO\bin\x64\Release\MovieLibDTO.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieLibDTO\bin\x64\Release\MovieLibDTO.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieLibDTO\obj\x64\Release\MovieLibDTO.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieLibDTO\obj\x64\Release\MovieLibDTO.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieLibDTO\obj\x64\Release\MovieLibDTO.pdb

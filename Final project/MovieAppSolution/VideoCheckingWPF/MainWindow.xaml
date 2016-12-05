@@ -1,0 +1,61 @@
+﻿<Window x:Name="Videotheque" x:Class="VideoCheckingWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VideoCheckingWPF"
+        mc:Ignorable="d"
+        Title="Videothèque" Height="500" Width="800" AutomationProperties.Name="Videotheque">
+    <Grid>
+        <TabControl x:Name="tabControl" Margin="5,0,-5,0">
+            <TabItem Header="Movies">
+
+                <Grid>
+
+                    <Button x:Name="buttonAllMovie" Content="All movies" HorizontalAlignment="Left" Margin="2,147,667,0" VerticalAlignment="Top" Width="115" RenderTransformOrigin="0.587,1.75" Height="20" Grid.ColumnSpan="2" Click="buttonAllMovie_Click"/>
+                    <Button x:Name="ButtonAvaibleMovie" Content="Avaible movies" HorizontalAlignment="Left" Margin="2,177,0,0" VerticalAlignment="Top" Width="115" Grid.ColumnSpan="2" Click="ButtonAvaibleMovie_Click"/>
+                    <Button x:Name="UnavaibleMoviesButton" Content="Unavaible movies" HorizontalAlignment="Left" Margin="2,207,0,0" VerticalAlignment="Top" Width="115" Grid.ColumnSpan="2" Click="UnavaibleMoviesButton_Click"/>
+                    <DataGrid x:Name="MovieDataGrid" Margin="157,55,-3,-4" VerticalAlignment="Top" Height="390"/>
+                    <StackPanel HorizontalAlignment="Left" Height="100" Margin="127,195,0,0" VerticalAlignment="Top" Width="100"/>
+
+                </Grid>
+
+
+            </TabItem>
+            <TabItem Header="Orders">
+                <Grid>
+                    <Button x:Name="AllOrdersButton" Content="All orders" HorizontalAlignment="Left" Margin="1,155,668,0" VerticalAlignment="Top" Width="115" RenderTransformOrigin="0.587,1.75" Height="20" Click="AllOrdersButton_Click"/>
+                    <DataGrid x:Name="dataGridOrder" Margin="152,55,-3,-4" VerticalAlignment="Top" Height="390"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="New Order">
+
+                <Grid>
+                    <Label x:Name="label" Content="Movie name" HorizontalAlignment="Left" Margin="2,40,0,0" VerticalAlignment="Top" Width="115"/>
+                    <Label x:Name="label1" Content="User name" HorizontalAlignment="Left" Margin="7,75,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.395,0.192" Width="115"/>
+                    <DatePicker x:Name="DataPickerOrder" HorizontalAlignment="Left" Margin="117,126,0,0" VerticalAlignment="Top" Width="290"/>
+                    <Label x:Name="label_Copy" Content="End date" HorizontalAlignment="Left" Margin="2,125,0,0" VerticalAlignment="Top" Width="130"/>
+                    <Button x:Name="ConfirmNewOrderButton" Content="Confirm" HorizontalAlignment="Left" Margin="157,185,0,0" VerticalAlignment="Top" Width="130" Click="ConfirmNewOrderButton_Click" Height="30" IsEnabled="False"/>
+                    <Button x:Name="CancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="302,185,0,0" VerticalAlignment="Top" Width="130" Height="30"/>
+                    <TextBox x:Name="TextBoxMovieName" TextWrapping="Wrap" Margin="117,40,378,376"/>
+                    <TextBox x:Name="TextBoxUsername" TextWrapping="Wrap" Margin="116,80,379,336"/>
+                    <Button x:Name="buttonCheckSpell" Content="Check spell" Margin="12,185,644,226" Click="buttonCheckSpell_Click" Width="130" Height="30"/>
+                    <CheckBox x:Name="checkBoxMovieName" Content="" Margin="422,85,315,301" IsEnabled="False"/>
+                    <CheckBox x:Name="checkBoxUserName" Content=""  Margin="422,25,309,366" IsEnabled="False"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Users" Margin="-2,0">
+                <Grid>
+                    <DataGrid x:Name="UsersdataGrid"  Margin="152,55,-3,-4" VerticalAlignment="Top" Height="390" SelectionChanged="UsersdataGrid_SelectionChanged"/>
+                    <Button x:Name="ButtonAllUsers" Content="All users" HorizontalAlignment="Left" Margin="7,110,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.667,0.5" Click="ButtonAllUsers_Click"/>
+
+                </Grid>
+
+            </TabItem>
+
+        </TabControl>
+
+    </Grid>
+</Window>

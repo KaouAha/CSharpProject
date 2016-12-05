@@ -1,0 +1,36 @@
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\bin\Debug\ImportFilmToDB.exe.config
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\bin\Debug\ImportFilmToDB.exe
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\bin\Debug\ImportFilmToDB.pdb
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\MainWindow.g.cs
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\App.g.cs
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB_MarkupCompile.cache
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB_MarkupCompile.lref
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\MainWindow.baml
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.g.resources
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.Properties.Resources.resources
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.csproj.GenerateResource.Cache
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.exe
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.pdb
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.csprojResolveAssemblyReference.cache
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\bin\Debug\FimDBManagement.dll
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\bin\Debug\FimDBManagement.pdb
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\bin\Debug\FilmDTOLibrary.dll
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\ImportFilmToDB\bin\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\bin\Debug\ImportFilmToDB.exe.config
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\bin\Debug\ImportFilmToDB.exe
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\bin\Debug\ImportFilmToDB.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\bin\Debug\FilmDTOLibrary.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\bin\Debug\FimDBManagement.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\bin\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\bin\Debug\FimDBManagement.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\MainWindow.g.cs
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\App.g.cs
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB_MarkupCompile.cache
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB_MarkupCompile.lref
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\MainWindow.baml
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.g.resources
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.Properties.Resources.resources
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.csproj.GenerateResource.Cache
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.exe
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\ImportFilmToDB\obj\Debug\ImportFilmToDB.pdb

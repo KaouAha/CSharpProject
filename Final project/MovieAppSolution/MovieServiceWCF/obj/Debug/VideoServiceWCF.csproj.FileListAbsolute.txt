@@ -1,0 +1,10 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\MovieServiceWCF.exe.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\MovieServiceWCF.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\MovieServiceWCF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\obj\Debug\MovieServiceWCF.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\obj\Debug\MovieServiceWCF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\obj\Debug\VideoServiceWCF.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\VideoLibBLL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\VideoLibBLL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieServiceWCF\bin\Debug\VideoLibDAL.pdb

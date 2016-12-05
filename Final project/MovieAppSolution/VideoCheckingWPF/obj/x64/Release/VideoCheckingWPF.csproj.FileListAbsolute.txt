@@ -1,0 +1,14 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\x64\Release\VideoCheckingWPF.exe.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\x64\Release\VideoCheckingWPF.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\x64\Release\VideoCheckingWPF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\VideoCheckingWPF.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\MainWindow.g.cs
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\App.g.cs
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\VideoCheckingWPF_MarkupCompile.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\VideoCheckingWPF_MarkupCompile.lref
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\MainWindow.baml
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\VideoCheckingWPF.g.resources
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\VideoCheckingWPF.Properties.Resources.resources
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\VideoCheckingWPF.csproj.GenerateResource.Cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\VideoCheckingWPF.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\x64\Release\VideoCheckingWPF.pdb

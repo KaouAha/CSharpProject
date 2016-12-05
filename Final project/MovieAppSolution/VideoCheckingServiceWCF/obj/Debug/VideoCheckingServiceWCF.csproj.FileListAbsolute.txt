@@ -1,0 +1,26 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoCheckingServiceWCF.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoCheckingServiceWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoCheckingServiceWCF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibBLL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibBLL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibDAL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\obj\Debug\VideoCheckingServiceWCF.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\obj\Debug\VideoCheckingServiceWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingServiceWCF\obj\Debug\VideoCheckingServiceWCF.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\obj\Debug\VideoCheckingServiceWCF.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoCheckingServiceWCF.dll.config
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoCheckingServiceWCF.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoCheckingServiceWCF.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\MovieLibDTO.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibBLL.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibDAL.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibDTO.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\MovieLibDTO.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibDTO.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibBLL.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\VideoLibDAL.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\obj\Debug\VideoCheckingServiceWCF.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingServiceWCF\obj\Debug\VideoCheckingServiceWCF.pdb

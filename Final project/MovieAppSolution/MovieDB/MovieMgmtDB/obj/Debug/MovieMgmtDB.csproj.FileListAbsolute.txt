@@ -1,0 +1,25 @@
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\obj\Debug\MovieMgmtDB.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.dll.config
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieMgmtDB\bin\Debug\MovieLibDTO.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieMgmtDB\bin\Debug\MovieLibDTO.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\MovieLib\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.pdb
+C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.dll.config
+C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.dll
+C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.pdb
+C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieLibDTO.dll
+C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieLibDTO.pdb
+C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.dll
+C:\Users\kaou-\Documents\Git\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieMgmtDB.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieLibDTO.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\bin\Debug\MovieLibDTO.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\MovieDB\MovieMgmtDB\obj\Debug\MovieMgmtDB.pdb

@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="VideoCheckService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import namespace="http://tempuri.org/" />
+      <xsd:import namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import namespace="http://schemas.datacontract.org/2004/07/VideoLibDAL" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IVideoCheckService_allMovies_InputMessage">
+    <wsdl:part name="parameters" element="tns:allMovies" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_allMovies_OutputMessage">
+    <wsdl:part name="parameters" element="tns:allMoviesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_moviesRended_InputMessage">
+    <wsdl:part name="parameters" element="tns:moviesRended" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_moviesRended_OutputMessage">
+    <wsdl:part name="parameters" element="tns:moviesRendedResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_moviesExpired_InputMessage">
+    <wsdl:part name="parameters" element="tns:moviesExpired" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_moviesExpired_OutputMessage">
+    <wsdl:part name="parameters" element="tns:moviesExpiredResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_movieRended_InputMessage">
+    <wsdl:part name="parameters" element="tns:movieRended" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_movieRended_OutputMessage">
+    <wsdl:part name="parameters" element="tns:movieRendedResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_movieAbsoluteFree_InputMessage">
+    <wsdl:part name="parameters" element="tns:movieAbsoluteFree" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_movieAbsoluteFree_OutputMessage">
+    <wsdl:part name="parameters" element="tns:movieAbsoluteFreeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_movieExist_InputMessage">
+    <wsdl:part name="parameters" element="tns:movieExist" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_movieExist_OutputMessage">
+    <wsdl:part name="parameters" element="tns:movieExistResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_allOrders_InputMessage">
+    <wsdl:part name="parameters" element="tns:allOrders" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_allOrders_OutputMessage">
+    <wsdl:part name="parameters" element="tns:allOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_createOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:createOrder" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_createOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:createOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_ordersByUser_InputMessage">
+    <wsdl:part name="parameters" element="tns:ordersByUser" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_ordersByUser_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ordersByUserResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_userExist_InputMessage">
+    <wsdl:part name="parameters" element="tns:userExist" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_userExist_OutputMessage">
+    <wsdl:part name="parameters" element="tns:userExistResponse" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_allUsers_InputMessage">
+    <wsdl:part name="parameters" element="tns:allUsers" />
+  </wsdl:message>
+  <wsdl:message name="IVideoCheckService_allUsers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:allUsersResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IVideoCheckService">
+    <wsdl:operation name="allMovies">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/allMovies" message="tns:IVideoCheckService_allMovies_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/allMoviesResponse" message="tns:IVideoCheckService_allMovies_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="moviesRended">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/moviesRended" message="tns:IVideoCheckService_moviesRended_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/moviesRendedResponse" message="tns:IVideoCheckService_moviesRended_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="moviesExpired">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/moviesExpired" message="tns:IVideoCheckService_moviesExpired_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/moviesExpiredResponse" message="tns:IVideoCheckService_moviesExpired_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="movieRended">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/movieRended" message="tns:IVideoCheckService_movieRended_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/movieRendedResponse" message="tns:IVideoCheckService_movieRended_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="movieAbsoluteFree">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/movieAbsoluteFree" message="tns:IVideoCheckService_movieAbsoluteFree_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/movieAbsoluteFreeResponse" message="tns:IVideoCheckService_movieAbsoluteFree_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="movieExist">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/movieExist" message="tns:IVideoCheckService_movieExist_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/movieExistResponse" message="tns:IVideoCheckService_movieExist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="allOrders">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/allOrders" message="tns:IVideoCheckService_allOrders_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/allOrdersResponse" message="tns:IVideoCheckService_allOrders_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="createOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/createOrder" message="tns:IVideoCheckService_createOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/createOrderResponse" message="tns:IVideoCheckService_createOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ordersByUser">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/ordersByUser" message="tns:IVideoCheckService_ordersByUser_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/ordersByUserResponse" message="tns:IVideoCheckService_ordersByUser_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="userExist">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/userExist" message="tns:IVideoCheckService_userExist_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/userExistResponse" message="tns:IVideoCheckService_userExist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="allUsers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IVideoCheckService/allUsers" message="tns:IVideoCheckService_allUsers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IVideoCheckService/allUsersResponse" message="tns:IVideoCheckService_allUsers_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IVideoCheckService" type="tns:IVideoCheckService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="allMovies">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/allMovies" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="moviesRended">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/moviesRended" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="moviesExpired">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/moviesExpired" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="movieRended">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/movieRended" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="movieAbsoluteFree">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/movieAbsoluteFree" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="movieExist">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/movieExist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="allOrders">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/allOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createOrder">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/createOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ordersByUser">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/ordersByUser" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="userExist">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/userExist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="allUsers">
+      <soap:operation soapAction="http://tempuri.org/IVideoCheckService/allUsers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="VideoCheckService">
+    <wsdl:port name="BasicHttpBinding_IVideoCheckService" binding="tns:BasicHttpBinding_IVideoCheckService">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/VideoCheckingServiceWCF/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

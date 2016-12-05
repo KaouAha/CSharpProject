@@ -1,0 +1,32 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\obj\Debug\VideoSyncFetcher.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.Server.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.SqlServer.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\SyncDataBasesWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.xml
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.xml
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.Server.xml
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.SqlServer.xml
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\ConsoleApplication1\bin\Debug\SyncDataBasesWCF.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.Server.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.SqlServer.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\SyncDataBasesWCF.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\SyncDataBasesWCF.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.xml
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.xml
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.Server.xml
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\bin\Debug\Microsoft.Synchronization.Data.SqlServer.xml
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\obj\Debug\VideoSyncFetcher.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

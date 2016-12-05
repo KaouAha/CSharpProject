@@ -1,0 +1,10 @@
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\obj\Debug\VideosLibDAL.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\bin\Debug\VideosLibDAL.dll.config
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\bin\Debug\VideosLibDAL.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\bin\Debug\VideosLibDAL.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\bin\Debug\MovieLibDTO.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\bin\Debug\VideoLibDTO.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\bin\Debug\MovieLibDTO.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\bin\Debug\VideoLibDTO.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\obj\Debug\VideosLibDAL.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideosLibDAL\obj\Debug\VideosLibDAL.pdb

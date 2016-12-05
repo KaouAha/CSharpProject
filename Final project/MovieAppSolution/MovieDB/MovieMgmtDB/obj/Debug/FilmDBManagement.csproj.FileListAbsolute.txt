@@ -1,0 +1,16 @@
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FimDBManagement\bin\Debug\FimDBManagement.dll.config
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FimDBManagement\bin\Debug\FimDBManagement.dll
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FimDBManagement\bin\Debug\FimDBManagement.pdb
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FimDBManagement\obj\Debug\FimDBManagement.dll
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FimDBManagement\obj\Debug\FimDBManagement.pdb
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FimDBManagement\obj\Debug\FilmDBManagement.csprojResolveAssemblyReference.cache
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FimDBManagement\bin\Debug\FilmDTOLibrary.dll
+C:\Data\OneDrive\HEPL 2016-2017\B2 3 INFO SYST GEST Prog .NET\Lecture DB\ImportFilmToDB\FimDBManagement\bin\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\bin\Debug\FimDBManagement.dll.config
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\bin\Debug\FimDBManagement.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\bin\Debug\FimDBManagement.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\bin\Debug\FilmDTOLibrary.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\bin\Debug\FilmDTOLibrary.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\obj\Debug\FimDBManagement.dll
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\obj\Debug\FimDBManagement.pdb
+C:\Users\kaou-\Documents\Cours\C#\C# project\Lecture DB Film\ImportFilmToDB\FimDBManagement\obj\Debug\FilmDBManagement.csprojResolveAssemblyReference.cache

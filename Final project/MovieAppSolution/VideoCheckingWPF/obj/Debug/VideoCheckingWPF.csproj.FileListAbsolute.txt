@@ -1,0 +1,46 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingWPF.exe.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingWPF.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingWPF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.csprojResolveAssemblyReference.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\MainWindow.g.cs
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\App.g.cs
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF_MarkupCompile.cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF_MarkupCompile.lref
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\MainWindow.baml
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.g.resources
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.Properties.Resources.resources
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.csproj.GenerateResource.Cache
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.exe
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibDAL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibBLL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibBLL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingServiceWCF.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingServiceWCF.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.csprojResolveAssemblyReference.cache
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\App.g.cs
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF_MarkupCompile.cache
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF_MarkupCompile.lref
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingWPF.exe.config
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingWPF.exe
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingWPF.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\MovieLibDTO.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingServiceWCF.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibDTO.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibDAL.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibBLL.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\MovieLibDTO.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibDTO.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoCheckingServiceWCF.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibDAL.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\VideoLibBLL.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\MainWindow.baml
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.g.resources
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.Properties.Resources.resources
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.csproj.GenerateResource.Cache
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.exe
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\obj\Debug\VideoCheckingWPF.pdb
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\kaou-\Documents\Visual Studio 2015\Projects\MovieAppSolution\VideoCheckingWPF\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml

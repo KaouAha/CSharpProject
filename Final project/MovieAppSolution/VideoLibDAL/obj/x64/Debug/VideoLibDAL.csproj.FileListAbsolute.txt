@@ -1,0 +1,5 @@
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\x64\Debug\VideoLibDAL.dll.config
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\x64\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\bin\x64\Debug\VideoLibDAL.pdb
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\obj\x64\Debug\VideoLibDAL.dll
+D:\M28_TP\GitHub\CSharpProject\MovieAppSolution\VideoLibDAL\obj\x64\Debug\VideoLibDAL.pdb

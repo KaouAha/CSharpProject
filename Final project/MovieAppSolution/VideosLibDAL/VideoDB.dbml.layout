@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11.375, 8.5" name="VideoDB">
+  <DataContextMoniker Name="/VideoDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="dc047f14-db73-437c-99ea-a1a525860469" absoluteBounds="6.5, 2.375, 2, 1.3862939453125">
+      <DataClassMoniker Name="/VideoDBDataContext/Actor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="553667f5-0e98-41fc-a5f8-f77f0ff4c97c" absoluteBounds="6.5150000000000006, 2.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8a344dbc-17d6-4fd0-9e44-478dadf8d9a9" absoluteBounds="3.625, 3.875, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/VideoDBDataContext/Director" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d6b1256-1590-4e2a-ace9-2dc78a201961" absoluteBounds="3.64, 4.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ef4049f5-7ff0-4cd3-a2ac-81b6adaa541d" absoluteBounds="0.5, 0.5, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/VideoDBDataContext/Genre" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bb340f2b-8a02-48b3-a865-3188695e9091" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e78b000f-67c5-456b-950f-214ec65eafa0" absoluteBounds="4, 0.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/VideoDBDataContext/Movie" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3dd01a04-57ba-4b1a-85b2-709053ffbcf5" absoluteBounds="4.0150000000000006, 1.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fcb4e1c6-fb33-4469-a11d-f98f65e5bb1a" absoluteBounds="6.625, 4, 2, 1.3862939453125">
+      <DataClassMoniker Name="/VideoDBDataContext/MovieActor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27b4296a-ad61-48ae-8965-f8a9fecabf53" absoluteBounds="6.6400000000000006, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(7.5625 : 3.7612939453125); (7.5625 : 4)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VideoDBDataContext/Actor/Actor_MovieActor" />
+      <nodes>
+        <classShapeMoniker Id="dc047f14-db73-437c-99ea-a1a525860469" />
+        <classShapeMoniker Id="fcb4e1c6-fb33-4469-a11d-f98f65e5bb1a" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.89843875 : 2.39589680989583); (5.89843875 : 5.29074340820313); (6.625 : 5.29074340820313)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VideoDBDataContext/Movie/Movie_MovieActor" />
+      <nodes>
+        <classShapeMoniker Id="e78b000f-67c5-456b-950f-214ec65eafa0" />
+        <classShapeMoniker Id="fcb4e1c6-fb33-4469-a11d-f98f65e5bb1a" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="a63760d7-1772-4a46-abd6-493737fb8176" absoluteBounds="0.75, 4, 2, 1.3862939453125">
+      <DataClassMoniker Name="/VideoDBDataContext/MovieDirector" />
+      <nestedChildShapes>
+        <elementListCompartment Id="558f3919-cb8c-479e-962a-32c11a63b788" absoluteBounds="0.76500000000000012, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.625 : 4.53449625651042); (2.75 : 4.53449625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VideoDBDataContext/Director/Director_MovieDirector" />
+      <nodes>
+        <classShapeMoniker Id="8a344dbc-17d6-4fd0-9e44-478dadf8d9a9" />
+        <classShapeMoniker Id="a63760d7-1772-4a46-abd6-493737fb8176" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.7343725 : 2.39589680989583); (5.7343725 : 5.19519287109375); (2.75 : 5.19519287109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VideoDBDataContext/Movie/Movie_MovieDirector" />
+      <nodes>
+        <classShapeMoniker Id="e78b000f-67c5-456b-950f-214ec65eafa0" />
+        <classShapeMoniker Id="a63760d7-1772-4a46-abd6-493737fb8176" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="4b27e370-c456-4dc4-bba7-7b54016b4c1f" absoluteBounds="9, 4, 2, 1.3862939453125">
+      <DataClassMoniker Name="/VideoDBDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="25d226ab-db3b-4cc3-bfa3-2d9a88b52288" absoluteBounds="9.015, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(6 : 2.22679768880208); (10.90625 : 2.22679768880208); (10.90625 : 4)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VideoDBDataContext/Movie/Movie_Order" />
+      <nodes>
+        <classShapeMoniker Id="e78b000f-67c5-456b-950f-214ec65eafa0" />
+        <classShapeMoniker Id="4b27e370-c456-4dc4-bba7-7b54016b4c1f" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="b2195eb1-6613-4e58-902d-1d7423fe39c6" absoluteBounds="8.75, 0.5, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/VideoDBDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ea5ad24f-6aa1-45dc-af92-9386a43e380e" absoluteBounds="8.765, 0.96, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8c67883d-6ef4-448b-bc10-bfba821c17c9" absoluteBounds="0.5, 2.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/VideoDBDataContext/MovieGenre" />
+      <nestedChildShapes>
+        <elementListCompartment Id="76b07321-1950-4458-b0cc-adc4651b4358" absoluteBounds="0.51500000000000012, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.5 : 1.69399251302083); (1.5 : 2.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VideoDBDataContext/Genre/Genre_MovieGenre" />
+      <nodes>
+        <classShapeMoniker Id="ef4049f5-7ff0-4cd3-a2ac-81b6adaa541d" />
+        <classShapeMoniker Id="8c67883d-6ef4-448b-bc10-bfba821c17c9" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.83593375 : 2.39589680989583); (4.83593375 : 2.98484787760417); (2.5 : 2.98484787760417)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VideoDBDataContext/Movie/Movie_MovieGenre" />
+      <nodes>
+        <classShapeMoniker Id="e78b000f-67c5-456b-950f-214ec65eafa0" />
+        <classShapeMoniker Id="8c67883d-6ef4-448b-bc10-bfba821c17c9" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="7d2d6089-e9cf-4ab2-bae1-c3e6893538b9" absoluteBounds="8.75, 2.375, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/VideoDBDataContext/OrderUser" />
+      <nestedChildShapes>
+        <elementListCompartment Id="739a4ae5-2a80-49eb-8e73-e23ec04764dd" absoluteBounds="8.765, 2.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.875 : 4); (9.875 : 3.56899251302083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/VideoDBDataContext/Order/Order_OrderUser" />
+      <nodes>
+        <classShapeMoniker Id="4b27e370-c456-4dc4-bba7-7b54016b4c1f" />
+        <classShapeMoniker Id="7d2d6089-e9cf-4ab2-bae1-c3e6893538b9" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 15.375, 8.5" name="MovieDBDataClasses">
+  <DataContextMoniker Name="/MovieDBDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="7d910821-1331-49d4-8622-f1ed099b138d" absoluteBounds="13.125, 6.375, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/MovieDBDataClassesDataContext/Actor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ed521aa5-832e-456f-8ef4-272c546b308c" absoluteBounds="13.14, 6.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="56310558-1608-4823-816e-5cf7f8495c77" absoluteBounds="8.125, 1.25, 2, 1.7708968098958335">
+      <DataClassMoniker Name="/MovieDBDataClassesDataContext/Movie" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1830a0b9-750a-48f7-9ba5-745bf41f8dfe" absoluteBounds="8.14, 1.71, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9dc3c571-3bf3-4095-bb39-9a1890568974" absoluteBounds="13.125, 4.25, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/MovieDBDataClassesDataContext/MovieActor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="63b29490-f087-4ee5-b864-4e3a493bd91a" absoluteBounds="13.14, 4.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4ca619d8-94c5-451b-a9ca-6d7ad1b13514" absoluteBounds="4, 4, 2, 1.3862939453125">
+      <DataClassMoniker Name="/MovieDBDataClassesDataContext/MovieGenre" />
+      <nestedChildShapes>
+        <elementListCompartment Id="82f952f3-e314-4252-9320-0694449ace2b" absoluteBounds="4.0150000000000006, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="770a172d-e917-4a16-b072-e081dc9bf8a7" absoluteBounds="8.125, 4, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/MovieDBDataClassesDataContext/MovieRealisateur" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9409b6bd-443b-4f45-a54e-e69278fe558e" absoluteBounds="8.14, 4.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="618b0e32-5555-49f6-a08a-ca2a07e2606b" absoluteBounds="4.25, 6.5, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/MovieDBDataClassesDataContext/Genre" />
+      <nestedChildShapes>
+        <elementListCompartment Id="77784d25-4e95-4873-a91f-a8043e174c51" absoluteBounds="4.265, 6.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="84d15bd4-8479-44fe-83f1-30a1728a5a7d" absoluteBounds="8.125, 6.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/MovieDBDataClassesDataContext/Realisateur" />
+      <nestedChildShapes>
+        <elementListCompartment Id="95ec8fc8-2736-48f8-948b-a5b26e9832fe" absoluteBounds="8.14, 6.9600000000000009, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(10.125 : 2.13544840494792); (14.125 : 2.13544840494792); (14.125 : 4.25)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MovieDBDataClassesDataContext/Movie/Movie_MovieActor" />
+      <nodes>
+        <classShapeMoniker Id="56310558-1608-4823-816e-5cf7f8495c77" />
+        <classShapeMoniker Id="9dc3c571-3bf3-4095-bb39-9a1890568974" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.125 : 6.375); (14.125 : 5.6362939453125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MovieDBDataClassesDataContext/Actor/Actor_MovieActor" />
+      <nodes>
+        <classShapeMoniker Id="7d910821-1331-49d4-8622-f1ed099b138d" />
+        <classShapeMoniker Id="9dc3c571-3bf3-4095-bb39-9a1890568974" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.125 : 2.13544840494792); (5 : 2.13544840494792); (5 : 4)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MovieDBDataClassesDataContext/Movie/Movie_MovieGenre" />
+      <nodes>
+        <classShapeMoniker Id="56310558-1608-4823-816e-5cf7f8495c77" />
+        <classShapeMoniker Id="4ca619d8-94c5-451b-a9ca-6d7ad1b13514" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.125 : 3.02089680989583); (9.125 : 4)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MovieDBDataClassesDataContext/Movie/Movie_MovieRealisateur" />
+      <nodes>
+        <classShapeMoniker Id="56310558-1608-4823-816e-5cf7f8495c77" />
+        <classShapeMoniker Id="770a172d-e917-4a16-b072-e081dc9bf8a7" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.125 : 6.5); (5.125 : 5.3862939453125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MovieDBDataClassesDataContext/Genre/Genre_MovieGenre" />
+      <nodes>
+        <classShapeMoniker Id="618b0e32-5555-49f6-a08a-ca2a07e2606b" />
+        <classShapeMoniker Id="4ca619d8-94c5-451b-a9ca-6d7ad1b13514" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.125 : 6.5); (9.125 : 5.3862939453125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MovieDBDataClassesDataContext/Realisateur/Realisateur_MovieRealisateur" />
+      <nodes>
+        <classShapeMoniker Id="84d15bd4-8479-44fe-83f1-30a1728a5a7d" />
+        <classShapeMoniker Id="770a172d-e917-4a16-b072-e081dc9bf8a7" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
